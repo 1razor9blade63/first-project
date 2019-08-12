@@ -1,0 +1,16 @@
+body{
+background: url(img/background.jpg) #2F4F4F;
+}
+h1{
+  color:#00FFFF
+}
+p{
+color: red;
+}
+.partner{
+
+text-align: center;
+color: #ffffff;
+background-color: #4a87fa;
+background-image: url(img/partner.gif);
+}
